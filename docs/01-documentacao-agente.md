@@ -10,7 +10,7 @@ Por mais que estejamos na era da informação muita gente ainda tem dificuldade 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-O agente vai auxiliar no planejamento de seus gastos mensais com base na solicitação do usuário.
+O agente vai auxiliar no planejamento mensal com base no padrão de gastos do usuário.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
