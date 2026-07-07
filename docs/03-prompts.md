@@ -104,5 +104,4 @@ Entendo, que pena! Ter uma renda extra é uma excelente ideia... mas que tal pri
 
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
-- [Observação 1]
-- [Observação 2]
+- O ChatGPT e o Claude IA respeitou o system prompt e responderam perfeitamente as perguntas, a Microsoft Copilot fugiu um pouco do tema quando foi questionado sobre: "o que há entre o céu e a terra", porém, contextualizou a utilizou a desconversação.
